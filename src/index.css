@@ -186,7 +186,7 @@ input:focus {
 }
 
 .about-link {
-  position: relative;
+  position: absolute;
   bottom: 20px;
   right: 20px;
   color: #fff;
@@ -194,6 +194,7 @@ input:focus {
 }
 
 .about-link a {
+  position: relative;
   color: #fff;
 }
 
